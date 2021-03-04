@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微信读书注释提取 URL
 // @namespace    https://github.com/shanyuhai123
-// @version      0.1.0
+// @version      0.1.1
 // @description  从微信读书的注释中提取 URL，使其可点击跳转
 // @author       shanyuhai123
 // @match        https://weread.qq.com/web/reader/*
